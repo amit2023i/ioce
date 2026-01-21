@@ -1,0 +1,1 @@
+defaultText = 'Your Apple has been Locked due to Detected illegal Child Pornography. Your Apple Account has been Disabled. Immediately Call Online Security Support +1 (805) 865-8014 to Unlock it!';
